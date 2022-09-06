@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: Tracing freezing front
 keywords:
 - markdown
 - publishing
@@ -7,18 +7,18 @@ keywords:
 lang: en-US
 date-meta: '2022-09-06'
 author-meta:
-- John Doe
-- Jane Roe
+- Yeong Min Kim
+- Yeong Min Kim2
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Tracing freezing front" />
+  <meta name="citation_title" content="Tracing freezing front" />
+  <meta property="og:title" content="Tracing freezing front" />
+  <meta property="twitter:title" content="Tracing freezing front" />
   <meta name="dc.date" content="2022-09-06" />
   <meta name="citation_publication_date" content="2022-09-06" />
   <meta name="dc.language" content="en-US" />
@@ -27,23 +27,21 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Yeong Min Kim" />
+  <meta name="citation_author_institution" content="Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign" />
+  <meta name="citation_author_orcid" content="0000-0002-1986-3215" />
+  <meta name="citation_author" content="Yeong Min Kim2" />
+  <meta name="citation_author_institution" content="Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign" />
+  <meta name="citation_author_orcid" content="0000-0002-1986-321X" />
   <link rel="canonical" href="https://uiceds.github.io/cee-492-term-project-fall-2022-ym/" />
   <meta property="og:url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-ym/" />
   <meta property="twitter:url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-ym/" />
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-ym/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-ym/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-ym/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/edfd74e8dd53600ea8a2507835d1aa50eaaadf8f/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/edfd74e8dd53600ea8a2507835d1aa50eaaadf8f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/edfd74e8dd53600ea8a2507835d1aa50eaaadf8f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/518bb5bb97d6779332da3380071b87da8a58415a/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/518bb5bb97d6779332da3380071b87da8a58415a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/518bb5bb97d6779332da3380071b87da8a58415a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/edfd74e8dd53600ea8a2507835d1aa50eaaadf8f/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/518bb5bb97d6779332da3380071b87da8a58415a/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-ym@edfd74e](https://github.com/uiceds/cee-492-term-project-fall-2022-ym/tree/edfd74e8dd53600ea8a2507835d1aa50eaaadf8f)
+from [uiceds/cee-492-term-project-fall-2022-ym@518bb5b](https://github.com/uiceds/cee-492-term-project-fall-2022-ym/tree/518bb5bb97d6779332da3380071b87da8a58415a)
 on September 6, 2022.
 </em></small>
 
@@ -75,32 +73,30 @@ on September 6, 2022.
 
 
 
-+ **John Doe**<br>
++ **Yeong Min Kim**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-1986-3215](https://orcid.org/0000-0002-1986-3215)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [k0alsl](https://github.com/k0alsl)<br>
   <small>
-     Department of Something, University of Whatever
+     Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**<br>
++ **Yeong Min Kim2**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-1986-321X](https://orcid.org/0000-0002-1986-321X)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [k0alsl2](https://github.com/k0alsl2)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign
   </small>
 
 
 
 ## Abstract {.page_break_before}
 
-
+My abstract.
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.

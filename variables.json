@@ -1,6 +1,6 @@
 {
   "pandoc": {
-    "title": "Manuscript Title",
+    "title": "Tracing freezing front",
     "keywords": [
       "markdown",
       "publishing",
@@ -9,10 +9,10 @@
     "lang": "en-US",
     "date-meta": "2022-09-06",
     "author-meta": [
-      "John Doe",
-      "Jane Roe"
+      "Yeong Min Kim",
+      "Yeong Min Kim2"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2022-09-06\" />\n<meta name=\"citation_publication_date\" content=\"2022-09-06\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/\" />\n<meta property=\"og:url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/\" />\n<meta property=\"twitter:url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/\" />\n<meta name=\"citation_pdf_url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/edfd74e8dd53600ea8a2507835d1aa50eaaadf8f/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/edfd74e8dd53600ea8a2507835d1aa50eaaadf8f/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/edfd74e8dd53600ea8a2507835d1aa50eaaadf8f/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Tracing freezing front\" />\n<meta name=\"citation_title\" content=\"Tracing freezing front\" />\n<meta property=\"og:title\" content=\"Tracing freezing front\" />\n<meta property=\"twitter:title\" content=\"Tracing freezing front\" />\n<meta name=\"dc.date\" content=\"2022-09-06\" />\n<meta name=\"citation_publication_date\" content=\"2022-09-06\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Yeong Min Kim\" />\n<meta name=\"citation_author_institution\" content=\"Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1986-3215\" />\n<meta name=\"citation_author\" content=\"Yeong Min Kim2\" />\n<meta name=\"citation_author_institution\" content=\"Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1986-321X\" />\n<link rel=\"canonical\" href=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/\" />\n<meta property=\"og:url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/\" />\n<meta property=\"twitter:url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/\" />\n<meta name=\"citation_pdf_url\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/518bb5bb97d6779332da3380071b87da8a58415a/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/518bb5bb97d6779332da3380071b87da8a58415a/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/518bb5bb97d6779332da3380071b87da8a58415a/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -25,14 +25,13 @@
     "date": "September 6, 2022",
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
-        "initials": "JD",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
+        "github": "k0alsl",
+        "name": "Yeong Min Kim",
+        "initials": "YMK",
+        "orcid": "0000-0002-1986-3215",
+        "email": "yeongmin@illinois.edu",
         "affiliations": [
-          "Department of Something, University of Whatever"
+          "Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign"
         ],
         "funders": [
           "Grant XXXXXXXX"
@@ -42,29 +41,23 @@
         ]
       },
       {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "jane.roe@whatever.edu",
+        "github": "k0alsl2",
+        "name": "Yeong Min Kim2",
+        "initials": "YMK2",
+        "orcid": "0000-0002-1986-321X",
+        "email": "yeongmin2@illinois.edu",
         "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
+          "Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign"
         ],
         "affiliation_numbers": [
-          1,
-          2
+          1
         ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign",
         "affiliation_number": 1
-      },
-      {
-        "affiliation": "Department of Whatever, University of Something",
-        "affiliation_number": 2
       }
     ],
     "ci_source": {
@@ -72,19 +65,19 @@
       "repo_slug": "uiceds/cee-492-term-project-fall-2022-ym",
       "repo_owner": "uiceds",
       "repo_name": "cee-492-term-project-fall-2022-ym",
-      "commit": "edfd74e8dd53600ea8a2507835d1aa50eaaadf8f",
-      "triggering_commit": "edfd74e8dd53600ea8a2507835d1aa50eaaadf8f",
-      "build_url": "https://github.com/uiceds/cee-492-term-project-fall-2022-ym/commit/edfd74e8dd53600ea8a2507835d1aa50eaaadf8f/checks",
+      "commit": "518bb5bb97d6779332da3380071b87da8a58415a",
+      "triggering_commit": "518bb5bb97d6779332da3380071b87da8a58415a",
+      "build_url": "https://github.com/uiceds/cee-492-term-project-fall-2022-ym/commit/518bb5bb97d6779332da3380071b87da8a58415a/checks",
       "job_url": "https://github.com/uiceds/cee-492-term-project-fall-2022-ym/runs/__run_3"
     },
     "html_url": "https://uiceds.github.io/cee-492-term-project-fall-2022-ym/",
     "pdf_url": "https://uiceds.github.io/cee-492-term-project-fall-2022-ym/manuscript.pdf",
-    "html_url_versioned": "https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/edfd74e8dd53600ea8a2507835d1aa50eaaadf8f/",
-    "pdf_url_versioned": "https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/edfd74e8dd53600ea8a2507835d1aa50eaaadf8f/manuscript.pdf",
+    "html_url_versioned": "https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/518bb5bb97d6779332da3380071b87da8a58415a/",
+    "pdf_url_versioned": "https://uiceds.github.io/cee-492-term-project-fall-2022-ym/v/518bb5bb97d6779332da3380071b87da8a58415a/manuscript.pdf",
     "manubot_version": "0.5.1",
     "rootstock_commit": null,
     "manuscript_stats": {
-      "word_count": 1404
+      "word_count": 1406
     }
   }
 }
