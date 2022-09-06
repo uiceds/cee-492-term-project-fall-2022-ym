@@ -1,26 +1,18 @@
 ---
-title: "Manuscript Title"
+title: "Tracing freezing front"
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: k0alsl
+    name: Yeong Min Kim
+    initials: YMK
+    orcid: 0000-0002-1986-3215
+    email: yeongmin@illinois.edu
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+  - github: 
